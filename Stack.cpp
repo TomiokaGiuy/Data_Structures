@@ -63,7 +63,7 @@ public:
 		return data;
 		}else
 		{
-			cout << " Ïóñòîé áàê ñàëÿğû \n";
+			cout << " ÃÃ³Ã±Ã²Ã®Ã© Ã¡Ã Ãª Ã±Ã Ã«Ã¿Ã°Ã» \n";
 			return -1;
 		}
 	}
